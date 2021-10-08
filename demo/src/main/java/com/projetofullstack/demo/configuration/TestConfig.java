@@ -16,7 +16,7 @@ public class TestConfig {
 	
 	@Bean
 	public boolean instancia() {
-		this.dbService.instanciaBasedeDados();
+		dbService.InstanciaBaseDeDados();
 		return true;
 	}
 
