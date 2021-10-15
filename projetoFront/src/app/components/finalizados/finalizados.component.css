@@ -1,0 +1,36 @@
+.container{
+    width: 85%;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    color: rgb(97, 93, 93);
+}
+
+.content{
+    width: 100%;
+}
+
+.badge button{
+    margin-top: 1rem;
+    width: 100%;
+}
+
+p{
+    text-align: end;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    padding-bottom: 0;
+}
+
+mat-card{
+    margin-top: .8rem;
+    padding: .2rem;
+}
+
+.cardDG{
+    background-image: linear-gradient(300deg, rgb(68, 238, 119), white);
+}
