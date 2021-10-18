@@ -1,10 +1,10 @@
 mat-toolbar{
-    position: fixed;
+    position: relative;
     margin-top: 1.5rem;
     bottom: 0;
     justify-content: flex-end;
     font-size: 1rem;
     height: 5%;
     color: #000;
-    background-image: linear-gradient(#fff, #3825b896);
+    background-image: linear-gradient(#e0d0c9, #fff);
 }

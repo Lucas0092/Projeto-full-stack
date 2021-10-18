@@ -22,7 +22,14 @@
 
 .novo-todo{
     width: 100%;
-    margin-top: 3rem;
+     margin-top: 1rem;
+}
+
+h1{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    color: rgb(0, 0, 0);
 }
 
 mat-card{
@@ -51,4 +58,18 @@ p{
 
 .cardDG{
     background-image: linear-gradient(300deg, rgb(181, 87, 209), white);
+}
+
+.colorR{
+    background-color: rgb(255, 25, 71);
+}
+
+.descIt{
+    font-style: italic;
+    font-size: 15px;
+}
+
+.tituloBo{
+    font-weight: bold;
+    font-size: 20px;
 }
