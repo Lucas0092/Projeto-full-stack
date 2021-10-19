@@ -6,6 +6,7 @@ form{
 
 .data-fin{
     text-align: start;
+    margin-bottom: 2rem;
 }
 
 h1{
@@ -16,6 +17,13 @@ h1{
 
 .form{
     width: 100%;
+    margin-bottom: 2rem;
+    
+}
+
+.forms{
+    margin-bottom: 2rem;
+    
 }
 
 .buttons{
@@ -26,4 +34,6 @@ button{
     margin-right: .5rem;
     padding-right: 2rem;
     padding-left: 2rem;
+    margin-bottom: 2rem;
 }
+
